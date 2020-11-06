@@ -1,1 +1,1 @@
-# cp-2-master
+# CP-2
